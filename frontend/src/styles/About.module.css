@@ -1,0 +1,62 @@
+/* About.module.css */
+
+.container {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: #FFFFFF;
+    text-align: center;
+  }
+  
+  .nav {
+    margin-bottom: 20px;
+  }
+  
+  .nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  .nav ul li a {
+    text-decoration: none;
+    color: #FFD700;
+  }
+  
+  .nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .section {
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .section p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  .section ul {
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+  
+  .section ul li {
+    margin-bottom: 10px;
+  }
+  
